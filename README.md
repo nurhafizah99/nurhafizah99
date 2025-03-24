@@ -41,13 +41,12 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd5MnptZ3djdDh0Z3E0MTR5eTc0b3RyZHVsZTRscGN4MWx1Nno1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tMqK6aXiwushxQUeMz/giphy.gif"  />
 
 ###
+<br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=nurhafizah99&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=nurhafizah99&theme=onedark" height="150" alt="trophy graph"  />
 </div>
